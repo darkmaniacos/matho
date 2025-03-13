@@ -1,4 +1,4 @@
-# metho
+# matho
 Interpretador de expressões numéricas simples
 
 ## LIMITAÇÕES
